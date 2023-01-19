@@ -19,8 +19,10 @@ Tasks &amp; practical I have done till date on AWS &amp; DevOps
 
 (v)Start the created VM & do the storage configuration:
 ![image](https://user-images.githubusercontent.com/108335056/213416656-a6fc6bcf-512f-4269-b0fe-a2f8b8cbd35c.png)
+
 Then setup user profile:
 ![image](https://user-images.githubusercontent.com/108335056/213416830-658f143e-692d-40f9-8935-2b2fa76fe260.png)
+
 We can also create as many users as we want in our VM through useradd _username_ & can delete the user by command userdel _username_
 
 This is how we can configure our first VM.
