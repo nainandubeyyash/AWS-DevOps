@@ -1,10 +1,10 @@
 # AWS-DevOps
 Tasks &amp; practical I have done till date on AWS &amp; DevOps
 
-1)Virtual Machine Configuration: 
+## 1)Virtual Machine Configuration: 
 
-Virtual machine: A compute resource that uses software instead of a physical computer to run programs and deploy apps
-Steps includes:
+### Virtual machine: A compute resource that uses software instead of a physical computer to run programs and deploy apps
+#### Steps includes:
 (i)Download latest version of Virtual machine in your system from : https://www.virtualbox.org/
 (ii)Download any latest Linux server for example for Ubuntu: https://ubuntu.com/download/server
 (iii)Create VM, provide a name, select machine folder, chose type & version of OS:
